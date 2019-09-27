@@ -1,9 +1,9 @@
 class Dog
-
-
-
-
-
+  
+  
+  
+  
+  
 end 
 
 
