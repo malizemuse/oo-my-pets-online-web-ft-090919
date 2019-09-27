@@ -12,7 +12,9 @@ class Cat
     @mood = mood
   end 
   
-  
+  def self.save 
+    @@all << self
+  end 
   
   
 end 
