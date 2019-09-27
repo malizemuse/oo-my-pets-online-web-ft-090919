@@ -1,3 +1,16 @@
 class Cat
-  # code goes here
-end
+  
+  attr_accessor :owner
+  
+  attr_reader :name
+  
+  def initialize(name, owner = nil)
+    @name = name 
+    @owner = owner
+  end 
+  
+  
+  
+end 
+
+
