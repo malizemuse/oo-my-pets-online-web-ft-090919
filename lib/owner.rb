@@ -56,7 +56,7 @@ class Owner
   end 
   
   def sell_pets 
-    
+    Dog.all.
   end 
   
 end 
