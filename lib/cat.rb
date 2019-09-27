@@ -17,6 +17,8 @@ class Cat
     @@all << self
   end 
   
+  def 
+  
   
 end 
 
